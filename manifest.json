@@ -1,0 +1,19 @@
+{
+    
+    "name":"book store app",
+    "short_name":"TSEC",
+    "icons":[
+        {
+            "src":"/home/lab1002/Documents/PWA/pngwing.com.png",
+            "type":"image/png",
+            "sizes":"192x192"
+        },
+        {
+            "src":"/home/lab1002/Documents/PWA/pngwing.com.png",
+            "type":"image/png",
+            "sizes":"512x512"
+        }
+    ],
+    "display":"standalone",
+    "start_url":"/"
+}
